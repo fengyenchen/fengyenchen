@@ -51,6 +51,10 @@ Hello, my name is Yen-Chen Feng. I am organized, detail-oriented, and passionate
 
 <div align="center">
 
+<br>
+<img src="https://fengyenchen.github.io/about/myphoto.jpg" alt="fengyenchen" style="height:80%;width:80%;">
+<br><br>
+
 [![Yen-Chen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fengyenchen&show_icons=true&theme=transparent&hide_border=true&title_color=e87d7d&text_color=635f5f&icon_color=e87d7d)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fengyenchen&layout=compact&theme=transparent&hide_border=true&title_color=e87d7d&text_color=635f5f)](https://github.com/anuraghazra/github-readme-stats)
