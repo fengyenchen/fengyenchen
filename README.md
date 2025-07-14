@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello 👋
+
+---
+
+My name is fengyenchen. I graduated from Neil senior high school. I am a methodical person, and I often plan ahead what I'm going to do. I am passionate about conveying interesting and meaningful information to others. My hobby is drawing, so I usually like to doodle on whatever paper is readily available. I also love creating and appreciating all kinds of audio-visual content. I have the courage to accept challenges and solve problems. I am good at observing people and things around me.
+
+
+
+
 
 <!--
 **fengyenchen/fengyenchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
