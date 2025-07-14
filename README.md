@@ -27,10 +27,9 @@ I am eager to take on challenges and solve problems, and I’m not afraid to ste
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-
 ---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fengyenchen&bg_color=fff5b8&color=e87d7d&line=8d8c8b&point=635f5f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fengyenchen&bg_color=fff5b8&color=e87d7d&line=8d8c8b&point=635f5f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
