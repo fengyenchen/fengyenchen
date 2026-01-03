@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://fengyenchen.github.io/about/myphoto.jpg" alt="Yen-Chen Feng" width="250" style="border-radius:50%; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+  <img src="https://fengyenchen.github.io/my-page/assets/images/my-photo.jpg" alt="Yen-Chen Feng" width="250" style="border-radius:50%; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
 </div>
 
 ---
