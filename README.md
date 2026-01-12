@@ -55,6 +55,7 @@ Hello, my name is Yen-Chen Feng. I am organized, detail-oriented, and passionate
   <li><a href="https://openprocessing.org/sketch/2793879" target="_blank">251116 Mandala of Elements</a></li>
   <li><a href="https://openprocessing.org/sketch/2752444" target="_blank">251012 Coal Balls Are Talking</a></li>
   <li><a href="https://openprocessing.org/sketch/2729913" target="_blank">250920 The Mystic Score</a></li>
+  <li><a href="https://openprocessing.org/sketch/2782260" target="_blank">251106 Life</a></li>
   <li><a href="https://openprocessing.org/sketch/2820466" target="_blank">251208 Pop Art Portrait 2</a></li>
   <li><a href="https://openprocessing.org/sketch/2767834" target="_blank">沉浸式科技劇場專題實作期末海報</a></li>
 </ul>
