@@ -23,6 +23,8 @@ Hello, my name is Yen-Chen Feng. I am organized, detail-oriented, and passionate
   <li>💡 <b>Communicator</b>: My goal is to make connections and create value through clear communication and creativity.</li>
 </ul>
 
+<a href="https://fengyenchen.github.io/my-page/" target="_blank">個人網站 personal website</a>
+
 ### 🛠️ My Tech Stack & Tools
 
 <p>
@@ -31,7 +33,10 @@ Hello, my name is Yen-Chen Feng. I am organized, detail-oriented, and passionate
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
     <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+    <a href="https://p5js.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white" alt="p5.js"/></a>
     <br>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/></a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/></a>
 </p>
@@ -43,3 +48,13 @@ Hello, my name is Yen-Chen Feng. I am organized, detail-oriented, and passionate
 <a href="https://linkedin.com/in/fengyenchen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://instagram.com/yenchen_0504" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
+### 📂 P5.js/Processing Projects
+<ul>
+  <li><a href="https://openprocessing.org/sketch/2737712" target="_blank">250928 Ripple</a></li>
+  <li><a href="https://openprocessing.org/sketch/2793879" target="_blank">251116 Mandala of Elements</a></li>
+  <li><a href="https://openprocessing.org/sketch/2752444" target="_blank">251012 Coal Balls Are Talking</a></li>
+  <li><a href="https://openprocessing.org/sketch/2729913" target="_blank">250920 The Mystic Score</a></li>
+  <li><a href="https://openprocessing.org/sketch/2820466" target="_blank">251208 Pop Art Portrait 2</a></li>
+  <li><a href="https://openprocessing.org/sketch/2767834" target="_blank">沉浸式科技劇場專題實作期末海報</a></li>
+</ul>
