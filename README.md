@@ -12,9 +12,9 @@
 ### 📌 About Me
 
 <p>
-大家好，我是馮妍禎，目前就讀於國立台灣大學工商管理學系。我做事有條不紊，重視細節與規劃，並熱衷於向他人傳遞有趣且富有意義的訊息。我樂於接受挑戰、解決問題，面對未知時勇於嘗試，喜歡探索和觀察生活中的小事。
+大家好，我是馮妍禎，目前就讀於國立台灣大學工商管理學系。我熱衷於向他人傳遞有趣且富有意義的訊息。我樂於接受挑戰、解決問題，面對未知時勇於嘗試，喜歡探索和觀察生活中的小事。
 <br><br>
-Hello, my name is Yen-Chen Feng. I am organized, detail-oriented, and passionate about conveying messages that are both engaging and meaningful.
+Hello, my name is Yen-Chen Feng. I am passionate about sharing interesting and meaningful messages with others. I enjoy accepting challenges and solving problems. I am willing to try new things when facing the unknown, and I like to explore and observe the little things in life.
 </p>
 
 <ul>
@@ -46,7 +46,9 @@ Hello, my name is Yen-Chen Feng. I am organized, detail-oriented, and passionate
 <p>
 <a href="mailto:feng20050504@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://linkedin.com/in/fengyenchen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://instagram.com/yenchen_0504" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://instagram.com/yenchen_0504" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - personal"/></a>
+<a href="https://instagram.com/f.yc_yc.f" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - work"/></a>
+<a href="https://x.com/fengyenchen0504" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 </p>
 
 ### 📂 P5.js/Processing Projects
@@ -58,4 +60,6 @@ Hello, my name is Yen-Chen Feng. I am organized, detail-oriented, and passionate
   <li><a href="https://openprocessing.org/sketch/2782260" target="_blank">251106 Life</a></li>
   <li><a href="https://openprocessing.org/sketch/2820466" target="_blank">251208 Pop Art Portrait 2</a></li>
   <li><a href="https://openprocessing.org/sketch/2767834" target="_blank">沉浸式科技劇場專題實作期末海報</a></li>
+  <li><a href="https://openprocessing.org/sketch/2856309" target="_blank">260126 The Rhythm of Ink Grids</a></li>
+  <li><a href="https://openprocessing.org/sketch/2860071" target="_blank">260130 SYSTEM_FAILURE: SUCCESSFUL</a></li>
 </ul>
