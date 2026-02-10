@@ -12,9 +12,13 @@
 ### 📌 About Me
 
 <p>
-大家好，我是馮妍禎，目前就讀於國立台灣大學工商管理學系。我熱衷於向他人傳遞有趣且富有意義的訊息。我樂於接受挑戰、解決問題，面對未知時勇於嘗試，喜歡探索和觀察生活中的小事。
+<h4>馮妍禎 (Yen-Chen Feng)</h4>
+一個喜歡把觀察轉化為視覺敘事的人。<br>
+我習慣用畫筆和多媒體來表達想法，在秩序與靈感之間捕捉平衡點。對我而言，持續探索、用創意解決問題，就是我對這世界最理想的實踐。
 <br><br>
-Hello, my name is Yen-Chen Feng. I am passionate about sharing interesting and meaningful messages with others. I enjoy accepting challenges and solving problems. I am willing to try new things when facing the unknown, and I like to explore and observe the little things in life.
+Yen-Chen Feng Born in 2005 in Taiwan. Her practice centers on uncovering meaning within daily life and translating abstract thoughts into visual narratives.
+<br><br>
+Guided by a keen eye for detail and a curiosity for the unknown, she uses drawing and multimedia as her primary languages. For Yen-Chen, creativity is a process of constant exploration—a way to bridge sincere communication with aesthetic clarity, making a subtle yet firm difference through every line she draws.
 </p>
 
 <ul>
