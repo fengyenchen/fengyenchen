@@ -64,6 +64,7 @@ Guided by a keen eye for detail and a curiosity for the unknown, she uses drawin
   <li><a href="https://openprocessing.org/sketch/2782260" target="_blank">251106 Life</a></li>
   <li><a href="https://openprocessing.org/sketch/2820466" target="_blank">251208 Pop Art Portrait 2</a></li>
   <li><a href="https://openprocessing.org/sketch/2767834" target="_blank">沉浸式科技劇場專題實作期末海報</a></li>
+  <li><a href="https://openprocessing.org/sketch/2845160" target="_blank">260112 The Chaos Carnival</a></li>
   <li><a href="https://openprocessing.org/sketch/2856309" target="_blank">260126 The Rhythm of Ink Grids</a></li>
   <li><a href="https://openprocessing.org/sketch/2860071" target="_blank">260130 SYSTEM_FAILURE: SUCCESSFUL</a></li>
 </ul>
