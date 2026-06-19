@@ -29,7 +29,7 @@ Starting from understanding users' needs, she combines design thinking with tech
 For Yen-Chen, great products are more than tools for solving problems—they are bridges that connect people, ideas, and technology. She believes that thoughtful design and innovative technology can work together to create experiences that are both functional and meaningful.
 
 - 🎨 **Design & UX** — Designing intuitive and engaging digital experiences.
-- 💻 **Frontend Development** — Building interactive applications with modern web technologies.
+- 🌐 **Full-Stack Development** — Building scalable, end-to-end applications with modern web technologies and robust architectures.
 - 🤖 **AI & Product Thinking** — Exploring how AI can create meaningful user value.
 - ✨ **Creative Coding** — Combining art, design, and code through interactive media and generative works.
 
