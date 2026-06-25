@@ -77,7 +77,8 @@ https://fengyenchen.github.io/my-page/
 
 ### 📂 Web APP
 
-- [Blog-Vue](https://fengyenchen-blog-vue.vercel.app/)
+- [Blog Vue](https://fengyenchen-blog-vue.vercel.app/)
+- [Soul Atelier](https://fengyenchen-soul-atelier.vercel.app/)
 
 ### 📂 P5.js/Processing Projects
 
