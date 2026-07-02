@@ -77,8 +77,9 @@ https://fengyenchen.github.io/my-page/
 
 ### 📂 Web APP
 
-- [Blog Vue](https://fengyenchen-blog-vue.vercel.app/)
-- [Soul Atelier](https://fengyenchen-soul-atelier.vercel.app/)
+- [Blog Vue](https://fengyenchen-blog-vue.vercel.app/) - 用 Vue.js 框架與 Tailwind CSS 搭配的共享部落格。
+- [Soul Atelier](https://fengyenchen-soul-atelier.vercel.app/) - 一個融合 3D 互動視覺與 Gemini 2.5 AI 的人格測驗網站，採用 Next.js 、Tailwind CSS 和 R3F 開發。
+- [Magic Dispenser](https://fengyenchen-magic-dispenser.vercel.app/) - 結合 React 3D 視覺前端與 Express 後端，對接 Neon PostgreSQL 雲端資料庫的物資販賣全端系統。
 
 ### 📂 P5.js/Processing Projects
 
