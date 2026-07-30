@@ -33,7 +33,7 @@ For Yen-Chen, great products are more than tools for solving problems—they are
 - ✨ **Creative Coding** — Combining art, design, and code through interactive media and generative works.
 
 🔗 **Personal Website:**  
-https://fengyenchen-my-portfolio.vercel.app/
+https://fengyenchen.com
 
 ---
 
