@@ -35,6 +35,9 @@ For Yen-Chen, great products are more than tools for solving problems—they are
 🔗 **Personal Website:**  
 https://fengyenchen.com
 
+🔗 **HCI Portfolio:**  
+https://hci-portfolio.fengyenchen.com
+
 ---
 
 ### 🛠️ My Tech Stack & Tools
