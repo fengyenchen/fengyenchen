@@ -92,11 +92,12 @@ https://hci-portfolio.fengyenchen.com
 
 ### 📂 Web APP
 
-- [Blog Vue](https://blog-vue.fengyenchen.com/) - 用 Vue.js 框架與 Tailwind CSS 搭配的共享部落格。
-- [Soul Atelier](https://soul-atelier.fengyenchen.com/) - 一個融合 3D 互動視覺與 Gemini 2.5 AI 的人格測驗網站，採用 Next.js 、Tailwind CSS 和 R3F 開發。
+- [Co Canvas](https://co-canvas.fengyenchen.com/) - 結合 AI 對話與視覺化節點畫布的人機協作工具，使用 React、TypeScript、React Flow 與 Gemini AI，將對話結果轉換為可操作的節點與關聯。
 - [Pixel Art Generator](https://pixel-art-generator.fengyenchen.com/) - 一個以 React、TypeScript 與原生 Canvas API 製作的像素繪圖及圖片轉換工具。
-- [Magic Dispenser](https://magic-dispenser.fengyenchen.com/) - 結合 React 3D 視覺前端與 Express 後端，對接 Neon PostgreSQL 雲端資料庫的物資販賣全端系統。
+- [Soul Atelier](https://soul-atelier.fengyenchen.com/) - 一個融合 3D 互動視覺與 Gemini 2.5 AI 的人格測驗網站，採用 Next.js 、Tailwind CSS 和 R3F 開發。
 - [R3F Practice](https://r3f-practice.fengyenchen.com/) - 結合 3D 模型製作與 React Three Fiber（R3F），將作品整合至網頁中，打造流暢且具互動性的沉浸式體驗。
+- [Blog Vue](https://blog-vue.fengyenchen.com/) - 用 Vue.js 框架與 Tailwind CSS 搭配的共享部落格。
+- [Magic Dispenser](https://magic-dispenser.fengyenchen.com/) - 結合 React 3D 視覺前端與 Express 後端，對接 Neon PostgreSQL 雲端資料庫的物資販賣全端系統。
 
 ### 📂 P5.js/Processing Projects
 
