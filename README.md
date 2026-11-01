@@ -2,13 +2,11 @@
   <h1>Hi 👋, I'm Yen-Chen Feng (馮妍禎)</h1>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://fengyenchen.github.io/my-page/assets/images/my-photo.jpg"
        alt="Yen-Chen Feng"
        width="250">
-</div>
-
----
+</div> -->
 
 ### 📌 About Me
 
